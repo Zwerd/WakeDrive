@@ -1,0 +1,3 @@
+rootProject.name = 'WakeDrive'
+
+include ':app'
